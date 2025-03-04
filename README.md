@@ -120,9 +120,13 @@ Nicholas S Edmunds, Ahmet G Genc, Liam J McGuffin.
 ### AlphaFold 3
 
 
+* **AF3Complex Yields Improved Structural Predictions of Protein Complexes** [2025]  
+Jonathan Feldman, Jeffrey Skolnick.   
+[bioRxiv. (2025)](https://doi.org/10.1101/2025.02.27.640585) | [code](https://github.com/Jfeldman34/AF3Complex)  
+
 * **Accurate structure prediction of biomolecular interactions with AlphaFold 3** [2024]  
 Abramson, J., Adler, J., Dunger, J. et al.   
-[Nature (2024)](https://doi.org/10.1038/s41586-024-07487-w) | [sever](https://alphafoldserver.com/)
+[Nature (2024)](https://doi.org/10.1038/s41586-024-07487-w) | [sever](https://alphafoldserver.com/)  
 
 
 
