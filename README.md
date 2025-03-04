@@ -60,6 +60,17 @@
 
 
 
+* **BAnG: Bidirectional Anchored Generation for Conditional RNA Design** [2025]   
+Roman Klypa, Alberto Bietti, Sergei Grudinin.   
+[arXiv:2502.21274 (2025)](https://arxiv.org/abs/2502.21274)  
+
+
+
+
+
+
+
+
 ## Deep Learning-based DNA design
 
 
