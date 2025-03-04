@@ -143,9 +143,11 @@ Bryant, P., Pozzati, G., Zhu, W. et al.
 
 * **Improved protein complex prediction with AlphaFold-multimer by denoising the MSA profile** [2024]  
 Patrick Bryant, Frank Noé.   
-[PLOS Computational Biology (2024)](https://doi.org/10.1371/journal.pcbi.1012253) | [code](https://github.com/patrickbryant1/AFProfile)
+[PLOS Computational Biology (2024)](https://doi.org/10.1371/journal.pcbi.1012253) | [code](https://github.com/patrickbryant1/AFProfile)  
 
-
+* **gapTrick – Structural characterisation of protein-protein interactions using AlphaFold with multimeric templates** [2025]  
+Grzegorz Chojnowski.  
+[bioRxiv (2025)](https://doi.org/10.1101/2025.01.31.635911) | [code](https://github.com/gchojnowski/gapTrick)  
 
 ### Rosetta
 
