@@ -97,9 +97,14 @@ https://github.com/biolists/folding_tools
 
 
 
+
+* **An Evaluation of Biomolecular Energetics Learned by AlphaFold** [2025]  
+Ningyi Lyu, Siyuan Du, Jianpeng Ma, Daniel Herschlag.   
+[bioRxiv (2025)](https://doi.org/10.1101/2025.06.30.662466) | [code](https://zenodo.org/records/15770723)  
+
 * **Improved protein structure prediction using potentials from deep learning** [2020]  
 Senior, A.W., Evans, R., Jumper, J. et al.   
-[Nature 577, 706–710 (2020)](https://doi.org/10.1038/s41586-019-1923-7) | [code](https://github.com/google-deepmind/deepmind-research/tree/master/alphafold_casp13)
+[Nature 577, 706–710 (2020)](https://doi.org/10.1038/s41586-019-1923-7) | [code](https://github.com/google-deepmind/deepmind-research/tree/master/alphafold_casp13)  
 
 
 
