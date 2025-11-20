@@ -125,6 +125,12 @@ Nicholas S Edmunds, Ahmet G Genc, Liam J McGuffin.
 ### AlphaFold 3
 
 
+
+
+* **Accurate site-specific folding via conditional diffusion based on AlphaFold3** [2025]  
+H. Tang, & J. Wang.   
+[Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2521048122) | [code](https://github.com/HaCTang/SiteAF3)  
+
 * **AF3Complex Yields Improved Structural Predictions of Protein Complexes** [2025]  
 Jonathan Feldman, Jeffrey Skolnick.   
 [bioRxiv. (2025)](https://doi.org/10.1101/2025.02.27.640585) | [code](https://github.com/Jfeldman34/AF3Complex)  
