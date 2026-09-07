@@ -80,7 +80,15 @@ Roman Klypa, Alberto Bietti, Sergei Grudinin.
 
 
 
+
+
+
+
+
 ## Folding Tool Collection
+
+
+
 
 
 
@@ -91,13 +99,32 @@ https://github.com/biolists/folding_tools
 
 
 
-## Folding Tool Collection
 
 
 
 
 
 ### Foundation Model for Biomolecular Folding
+
+
+
+
+
+
+
+
+* **The first OpenBind release: An open experimental structure–affinity dataset and benchmark for structure-based AI** [2026]  
+Jochem Nelen, Omeir Khan, Etowah Adams, Jasmin C. Aschenbrenner, Warren Thompson, Ali Ebrahim, Eda Çapkin, Cédric Vallée, OpenBind, Elizabeth J. Shotton, Ed J. Griffen, John D. Chodera, Charlotte M. Deane, Frank von Delft, Mohammed AlQuraishi, Fergus Imrie.   
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.27.747600) | [code](https://github.com/OpenBind-Consortium/EV-A71_2A_benchmark) | [Zenodo](https://zenodo.org/records/20026661)  
+
+* **Accurate site-specific folding via conditional diffusion based on AlphaFold3** [2025]  
+H. Tang, & J. Wang.   
+[Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2521048122) | [code](https://github.com/HaCTang/SiteAF3)  
+
+* **ODesign: A World Model for Biomolecular Interaction Design** [2025]  
+Odin Zhang, Xujun Zhang, Haitao Lin, Cheng Tan, Qinghan Wang, Yuanle Mo, Qiantai Feng, Gang Du, Yuntao Yu, Zichang Jin, Ziyi You, Peicong Lin, Yijie Zhang, Yuyang Tao, Shicheng Chen, Jack Xiaoyu Chen, Chenqing Hua, Weibo Zhao, Runze Ma, Yunpeng Xia, Kejun Ying, Jun Li, Yundian Zeng, Lijun Lang, Peichen Pan, Hanqun Cao, Zihao Song, Bo Qiang, Jiaqi Wang, Pengfei Ji, Lei Bai, Jian Zhang, Chang-yu Hsieh, Pheng Ann Heng, Siqi Sun, Tingjun Hou, Shuangjia Zheng.   
+[arXiv:2510.22304 (2025)](https://doi.org/10.48550/arXiv.2510.22304) | [code](https://github.com/OTeam-AI4S/ODesign) | [Web](https://odesign1.github.io/)  
+
 
 
 
