@@ -33,6 +33,7 @@
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
+| [Foundation Model for Biomolecular Folding](#foundation-model-for-biomolecular-folding) |  |  |  |
 | [AlphaFold](#alphafold) | [AlphaFold 2](#alphafold-2) | [AlphaFold 3](#alphafold-3) | [AlphaFold-Multimer](#alphafold-multimer) |
 | [Rosetta](#rosetta) | [RoseTTAFold](#rosettafold) | [RoseTTAFold2](#rosettafold2) | [RoseTTAFold2NA](#rosettafold2na) |
 | [OpenFold](#openfold) | [Uni-Fold](#uni-fold) | [OmegaFold](#omegafold) | [EquiFold](#equifold) |
@@ -91,6 +92,17 @@ https://github.com/biolists/folding_tools
 
 
 ## Folding Tool Collection
+
+
+
+
+
+### Foundation Model for Biomolecular Folding
+
+
+
+
+
 
 
 ### AlphaFold
