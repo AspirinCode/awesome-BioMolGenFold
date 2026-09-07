@@ -310,19 +310,30 @@ Lyu, J., Kapolka, N., Gumpper, R., Alon, A., Wang, L., Jain, M.K., Barros-Álvar
 
 
 
+
+
+
 ## Based on the classification of biomolecules
+
+
 
 
 
 ### RNAFold
 
+
+
+
+
+
+
 * **RNA secondary structure prediction by learning unrolled algorithms** [2020]  
 Chen, Xinshi, Yu Li, Ramzan Umarov, Xin Gao, and Le Song.   
-[arXiv:2002.05810 (2020)](https://arxiv.org/abs/2002.05810) | [code](https://github.com/ml4bio/e2efold)
+[arXiv:2002.05810 (2020)](https://arxiv.org/abs/2002.05810) | [code](https://github.com/ml4bio/e2efold)  
 
 * **Geometric deep learning of RNA structure** [2021]  
 Townshend, Raphael JL, Stephan Eismann, Andrew M. Watkins, Ramya Rangan, Masha Karelina, Rhiju Das, and Ron O. Dror.   
-[Science 373.6558 (2021)](https://doi.org/10.1126/science.abe5650) | [code](https://drorlab.stanford.edu/ares.html)
+[Science 373.6558 (2021)](https://doi.org/10.1126/science.abe5650) | [code](https://drorlab.stanford.edu/ares.html)  
 
 * **OpenComplex: RNA and protein-RNA complex models with high precision** [2022]  
 Jingcheng, Yu and Zhaoming, Chen and Zhaoqun, Li and Mingliang, Zeng and Wenjun, Lin and He, Huang and Qiwei, Ye.   
@@ -330,15 +341,22 @@ Jingcheng, Yu and Zhaoming, Chen and Zhaoqun, Li and Mingliang, Zeng and Wenjun,
 
 * **RNA secondary structure packages evaluated and improved by high-throughput experiments** [2022]  
 Wayment-Steele, H.K., Kladwang, W., Strom, A.I. et al.   
-[Nat Methods 19, 1234–1242 (2022)](https://doi.org/10.1038/s41592-022-01605-0) | [code](https://github.com/eternagame/EternaFold)
+[Nat Methods 19, 1234–1242 (2022)](https://doi.org/10.1038/s41592-022-01605-0) | [code](https://github.com/eternagame/EternaFold)  
 
 * **RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models** [2024]  
 Huang, Han, Ziqian Lin, Dongchen He, Liang Hong, and Yu Li.   
-[bioRxiv (2024)](https://doi.org/10.1101/2024.04.18.590187) | [code](https://github.com/GRAPH-0/RiboDiffusion)
+[bioRxiv (2024)](https://doi.org/10.1101/2024.04.18.590187) | [code](https://github.com/GRAPH-0/RiboDiffusion)  
 
 * **RNAformer: A Simple Yet Effective Deep Learning Model for RNA Secondary Structure Prediction** [2024]  
 Franke, Joerg KH, Frederic Runge, Ryan Koeksal, Rolf Backofen, and Frank Hutter.   
-[bioRxiv (2024)](https://doi.org/10.1101/2024.02.12.579881) | [code](https://github.com/automl/RNAformer)
+[bioRxiv (2024)](https://doi.org/10.1101/2024.02.12.579881) | [code](https://github.com/automl/RNAformer)  
+
+* **Limits of deep-learning-based RNA prediction methods** [2026]  
+Marko Ludaic, Arne Elofsson.   
+[Nucleic Acids Research(2026)](https://doi.org/10.1093/nar/gkag813) | [code](https://github.com/iammarcol/RNA-Benchmark) | [Zenodo](https://doi.org/10.5281/zenodo.21241326)  
+
+
+
 
 
 
@@ -349,7 +367,14 @@ Franke, Joerg KH, Frederic Runge, Ryan Koeksal, Rolf Backofen, and Frank Hutter.
 
 
 
+
+
+
+
 ### DNAFold
+
+
+
 
 
 
@@ -365,7 +390,14 @@ Truong-Quoc, C., Lee, J.Y., Kim, K.S. et al.
 
 
 
-### peptideFold
+
+
+### PeptideFold
+
+
+
+
+
 
 
 * **PSSP-MVIRT: peptide secondary structure prediction based on a multi-view deep learning architecture** [2021]  
@@ -375,6 +407,13 @@ Xiao Cao, Wenjia He, Zitan Chen, Yifan Li, Kexin Wang, Hongbo Zhang, Lesong Wei,
 * **Benchmarking AlphaFold2 on peptide structure prediction** [2023]  
 McDonald, Eli Fritz, Taylor Jones, Lars Plate, Jens Meiler, and Alican Gulsevin.   
 [Structure 31.1 (2023)](https://doi.org/10.1016/j.str.2022.11.012)   
+
+
+
+
+
+
+
 
 
 
@@ -418,6 +457,10 @@ Abramson, J., Adler, J., Dunger, J. et al.
 
 
 
+
+
+
+
 ### AntibodyFold
 
 
@@ -428,7 +471,16 @@ Ruffolo, Jeffrey A., Lee-Shin Chu, Sai Pooja Mahajan, and Jeffrey J. Gray.
 
 
 
+
+
+
+
+
 ### Protein-Protein ComplexFold
+
+
+
+
 
 
 * **Protein complex prediction with AlphaFold-Multimer** [2021]  
@@ -448,7 +500,19 @@ Abramson, J., Adler, J., Dunger, J. et al.
 [Nature (2024)](https://doi.org/10.1038/s41586-024-07487-w) | [sever](https://alphafoldserver.com/)
 
 
+
+
+
+
+
+
 ### Peptide-Protein ComplexFold
+
+
+
+
+
+
 
 * **Protein complex prediction with AlphaFold-Multimer** [2021]  
 JEvans, Richard, Michael O’Neill, Alexander Pritzel, Natasha Antropova, Andrew Senior, Tim Green, Augustin Žídek et al.   
@@ -463,7 +527,18 @@ Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Fr
 [Nature Methods 21.1 (2024)](https://doi.org/10.1038/s41592-023-02086-5) | [code](https://github.com/uw-ipd/RoseTTAFold2NA)
 
 
+
+
+
+
+
 ### RNA-Protein ComplexFold
+
+
+
+
+
+
 
 * **OpenComplex: RNA and protein-RNA complex models with high precision** [2022]  
 Jingcheng, Yu and Zhaoming, Chen and Zhaoqun, Li and Mingliang, Zeng and Wenjun, Lin and He, Huang and Qiwei, Ye.   
@@ -484,13 +559,25 @@ Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Fr
 ### DNA-Protein ComplexFold
 
 
+
+
+
+
 * **Accurate prediction of protein–nucleic acid complexes using RoseTTAFoldNA** [2024]  
 Baek, Minkyung, Ryan McHugh, Ivan Anishchenko, Hanlun Jiang, David Baker, and Frank DiMaio.   
 [Nature Methods 21.1 (2024)](https://doi.org/10.1038/s41592-023-02086-5) | [code](https://github.com/uw-ipd/RoseTTAFold2NA)
 
 
 
+
+
+
 ### Antibody-Antigen ComplexFold
+
+
+
+
+
 
 
 * **AntiFold: Improved antibody structure design using inverse folding** [2023]  
