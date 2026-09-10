@@ -355,6 +355,9 @@ Franke, Joerg KH, Frederic Runge, Ryan Koeksal, Rolf Backofen, and Frank Hutter.
 Marko Ludaic, Arne Elofsson.   
 [Nucleic Acids Research(2026)](https://doi.org/10.1093/nar/gkag813) | [code](https://github.com/iammarcol/RNA-Benchmark) | [Zenodo](https://doi.org/10.5281/zenodo.21241326)  
 
+* **Agent-driven Model Development for RNA 3D Structure Prediction** [2026]  
+Maciej Majewski, Laura Malo, Ariadna Montero-Blay, Matteo Marengo, Paraskevi Gkeka, Herve Minoux.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.09.08.749228)  
 
 
 
