@@ -422,6 +422,9 @@ McDonald, Eli Fritz, Taylor Jones, Lars Plate, Jens Meiler, and Alican Gulsevin.
 
 ### ProteinFold
 
+
+
+
 * **Improved protein structure prediction using potentials from deep learning** [2020]  
 Senior, A.W., Evans, R., Jumper, J. et al.   
 [Nature 577, 706–710 (2020)](https://doi.org/10.1038/s41586-019-1923-7) | [code](https://github.com/google-deepmind/deepmind-research/tree/master/alphafold_casp13)
@@ -456,15 +459,19 @@ Lin, Zeming, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita
 
 * **Accurate structure prediction of biomolecular interactions with AlphaFold 3** [2024]  
 Abramson, J., Adler, J., Dunger, J. et al.   
-[Nature (2024)](https://doi.org/10.1038/s41586-024-07487-w) | [sever](https://alphafoldserver.com/)
+[Nature (2024)](https://doi.org/10.1038/s41586-024-07487-w) | [sever](https://alphafoldserver.com/)  
 
-
+* **SymFold: Synergizing Evolutionary and Structural Priors for Accurate Protein Inverse Folding** [2026]  
+Handong Wang, Jiaxin Qi, Baisheng Lai, Jianqiang Huang.   
+[arXiv:2609.01353 (2026)](https://doi.org/10.48550/arXiv.2609.01353) | [sever](http://generation.through/)
 
 
 
 
 
 ### AntibodyFold
+
+
 
 
 * **Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies** [2023]  
