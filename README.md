@@ -364,6 +364,11 @@ Marko Ludaic, Arne Elofsson.
 Maciej Majewski, Laura Malo, Ariadna Montero-Blay, Matteo Marengo, Paraskevi Gkeka, Herve Minoux.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.09.08.749228)  
 
+* **Markov models of SHAPE data improve secondary structure prediction** [2026]  
+Yifan Yang, David H Mathews, Sharon Aviran.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.09.10.750790)  
+
+
 
 
 
