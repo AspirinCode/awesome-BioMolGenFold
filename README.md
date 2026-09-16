@@ -113,6 +113,11 @@ https://github.com/biolists/folding_tools
 
 
 
+
+* **Synthesizing State-of-the-Art Structure Predictions from Soup of Co-folding Models** [2026]  
+Hyosoon Jang, Taewon Kim, Sungsoo Ahn.   
+[arXiv:2609.15552v1(2026)](https://arxiv.org/html/2609.15552v1)  
+
 * **The first OpenBind release: An open experimental structure–affinity dataset and benchmark for structure-based AI** [2026]  
 Jochem Nelen, Omeir Khan, Etowah Adams, Jasmin C. Aschenbrenner, Warren Thompson, Ali Ebrahim, Eda Çapkin, Cédric Vallée, OpenBind, Elizabeth J. Shotton, Ed J. Griffen, John D. Chodera, Charlotte M. Deane, Frank von Delft, Mohammed AlQuraishi, Fergus Imrie.   
 [bioRxiv (2026)](https://doi.org/10.64898/2026.08.27.747600) | [code](https://github.com/OpenBind-Consortium/EV-A71_2A_benchmark) | [Zenodo](https://zenodo.org/records/20026661)  
