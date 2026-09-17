@@ -61,6 +61,14 @@
 
 
 
+
+
+
+
+* **Gradient-based Optimization for mRNA Sequence Design** [2026]   
+Hongmin Li, Goro Terai, Takumi Otagaki, Kiyoshi Asai.   
+[Bioinformatics (2026)](https://doi.org/10.1093/bioinformatics/btag667) | [code](https://github.com/Li-Hongmin/ID3.git)  
+
 * **BAnG: Bidirectional Anchored Generation for Conditional RNA Design** [2025]   
 Roman Klypa, Alberto Bietti, Sergei Grudinin.   
 [arXiv:2502.21274 (2025)](https://arxiv.org/abs/2502.21274)  
