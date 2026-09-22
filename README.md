@@ -79,7 +79,9 @@ TorchCraft Team: Yu Liu, Zhouhanyu Shen, Zhengyi Li, Xikun Huang, Jiaqi Liu, Shu
 
 
 
-
+* **Conditional Generation And Inpainting Of Non-coding RNA Sequences With Masked Discrete Diffusion** [2026]  
+Utkarsh Upadhyay, Chuankai Dai, Julian Herold, Kengo Sato, Alexander Schug.  
+[bioRxiv(2026)](https://doi.org/10.64898/2026.09.17.752279)  
 
 * **Gradient-based Optimization for mRNA Sequence Design** [2026]   
 Hongmin Li, Goro Terai, Takumi Otagaki, Kiyoshi Asai.   
