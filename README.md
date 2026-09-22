@@ -54,6 +54,22 @@
 
 
 
+## Deep Learning-based Unified molecular design
+
+
+
+
+
+
+
+* **TorchCraft: Unified binder design by inverting an all-atom structure predictor** [2026]   
+TorchCraft Team: Yu Liu, Zhouhanyu Shen, Zhengyi Li, Xikun Huang, Jiaqi Liu, Shuxian Gao, Qilin Yu, Xiayan Qin, Yucheng Zhang, Mingchen Chen.   
+[arXiv:2609.19770(2026)](https://doi.org/10.48550/arXiv.2609.19770) | [code](https://github.com/Mingchenchen/TorchX)  
+
+
+
+
+
 
 ## Deep Learning-based mRNA/RNA design
 
