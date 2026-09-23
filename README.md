@@ -169,6 +169,9 @@ Odin Zhang, Xujun Zhang, Haitao Lin, Cheng Tan, Qinghan Wang, Yuanle Mo, Qiantai
 
 
 
+
+
+
 ### AlphaFold
 
 
@@ -181,6 +184,9 @@ Ningyi Lyu, Siyuan Du, Jianpeng Ma, Daniel Herschlag.
 * **Improved protein structure prediction using potentials from deep learning** [2020]  
 Senior, A.W., Evans, R., Jumper, J. et al.   
 [Nature 577, 706–710 (2020)](https://doi.org/10.1038/s41586-019-1923-7) | [code](https://github.com/google-deepmind/deepmind-research/tree/master/alphafold_casp13)  
+
+
+
 
 
 
@@ -198,7 +204,11 @@ Nicholas S Edmunds, Ahmet G Genc, Liam J McGuffin.
 
 
 
+
+
+
 ### AlphaFold 3
+
 
 
 
@@ -217,7 +227,12 @@ Abramson, J., Adler, J., Dunger, J. et al.
 
 
 
+
+
+
 ### AlphaFold-Multimer
+
+
 
 
 * **Protein complex prediction with AlphaFold-Multimer** [2021]  
@@ -236,6 +251,9 @@ Patrick Bryant, Frank Noé.
 Grzegorz Chojnowski.  
 [bioRxiv (2025)](https://doi.org/10.1101/2025.01.31.635911) | [code](https://github.com/gchojnowski/gapTrick)  
 
+
+
+
 ### Rosetta
 
 * **Rosetta**   
@@ -246,7 +264,12 @@ https://www.rosettacommons.org
 
 
 
+
+
+
 ### RoseTTAFold
+
+
 
 
 * **Accurate prediction of protein structures and interactions using a three-track neural network** [2021]  
@@ -505,7 +528,12 @@ Abramson, J., Adler, J., Dunger, J. et al.
 
 * **SymFold: Synergizing Evolutionary and Structural Priors for Accurate Protein Inverse Folding** [2026]  
 Handong Wang, Jiaxin Qi, Baisheng Lai, Jianqiang Huang.   
-[arXiv:2609.01353 (2026)](https://doi.org/10.48550/arXiv.2609.01353) | [sever](http://generation.through/)
+[arXiv:2609.01353 (2026)](https://doi.org/10.48550/arXiv.2609.01353) | [sever](http://generation.through/)  
+
+* **Phyfold: environment aware mathematical modeling for protein folding dynamics integrated with physics informed neural network** [2026]  
+Ul Rahman, J., Noureen, I., Mannan, A. et al.   
+[J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01271-w) | [Code](https://github.com/jamshaidwarraich/PhyFold)  
+
 
 
 
@@ -516,9 +544,13 @@ Handong Wang, Jiaxin Qi, Baisheng Lai, Jianqiang Huang.
 
 
 
+
+
+
 * **Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies** [2023]  
 Ruffolo, Jeffrey A., Lee-Shin Chu, Sai Pooja Mahajan, and Jeffrey J. Gray.   
 [Nature communications 14.1 (2023)](Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies) | [code](https://github.com/Graylab/IgFold)
+
 
 
 
