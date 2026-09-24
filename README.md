@@ -83,7 +83,9 @@ TorchCraft Team: Yu Liu, Zhouhanyu Shen, Zhengyi Li, Xikun Huang, Jiaqi Liu, Shu
 
 
 
-
+* **miRstring: An RNA language model enables mature miRNA decoding and artificial small RNA design across species** [2026]  
+Ruikang Peng, Xiang Li, Yitian Fang, Xiang Yu.  
+[bioRxiv(2026)](https://doi.org/10.64898/2026.09.17.752258) | [Zenodo](https://zenodo.org/records/21324294)  
 
 * **Conditional Generation And Inpainting Of Non-coding RNA Sequences With Masked Discrete Diffusion** [2026]  
 Utkarsh Upadhyay, Chuankai Dai, Julian Herold, Kengo Sato, Alexander Schug.  
