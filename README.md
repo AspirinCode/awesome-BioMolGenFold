@@ -46,7 +46,7 @@
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
 | [RNAFold](#rnafold) | [mRNAFold](#mrnafold) | [DNAFold](#dnafold) |  |
-| [peptideFold](#peptidefold) | [ProteinFold](#proteinfold) | [AntibodyFold](#antibodyfold) |  |
+| [peptideFold](#peptidefold) | [ProteinFold](#proteinfold) | [AntibodyFold](#antibodyfold) | [Protein-Ligand ComplexFold](#protein-ligand-complexfold) |
 | [Protein-Protein ComplexFold](#protein-protein-complexfold) | [Peptide-Protein ComplexFold](#peptide-protein-complexfold) | [RNA-Protein ComplexFold](#rna-protein-complexfold) | [DNA-Protein ComplexFold](#dna-protein-complexfold) |
 | [Antibody-Antigen ComplexFold](#antibody-antigen-complexfold) |  |  |  |
 
@@ -570,6 +570,24 @@ Kevin Lu, Jannik Brinkmann, Stefan Huber, Aaron Mueller, Yonatan Belinkov, David
 * **Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies** [2023]  
 Ruffolo, Jeffrey A., Lee-Shin Chu, Sai Pooja Mahajan, and Jeffrey J. Gray.   
 [Nature communications 14.1 (2023)](Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies) | [code](https://github.com/Graylab/IgFold)
+
+
+
+
+
+
+
+
+
+### Protein-Ligand ComplexFold
+
+
+
+
+
+* **Towards Generalizable Protein-ligand Co-folding with ACER** [2026]  
+Nopsinth Vithayapalert, Francesca Grisoni.   
+[bioRxiv (2026)](https://doi.org/10.64898/2026.06.02.728568) | [Code](https://github.com/molML/acer)  
 
 
 
