@@ -536,6 +536,12 @@ Handong Wang, Jiaxin Qi, Baisheng Lai, Jianqiang Huang.
 Ul Rahman, J., Noureen, I., Mannan, A. et al.   
 [J Cheminform (2026)](https://doi.org/10.1186/s13321-026-01271-w) | [Code](https://github.com/jamshaidwarraich/PhyFold)  
 
+* **Two Stages of Folding: Convergent Mechanisms in AI Protein Folding Trunks** [2026]  
+Kevin Lu, Jannik Brinkmann, Stefan Huber, Aaron Mueller, Yonatan Belinkov, David Bau, Chris Wendler.   
+[arXiv:2602.06020 (2026)](https://doi.org/10.48550/arXiv.2602.06020) | [Code](https://github.com/kevinlu4588/ProteinFolding)  
+
+
+
 
 
 
