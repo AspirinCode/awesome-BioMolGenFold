@@ -3,32 +3,6 @@
 **Updating ...**  
 
 
-
-
-  - [Deep Learning-based mRNA/RNA design](#deep-learning-based-mrna/rna-design)
-
-| Menu | Menu | Menu | Menu |
-| ------ | :---------- | ------ | ------ |
-| [RNN-based](#rnn-based) | [LSTM-based](#lstm-based) | [Autoregressive-models](#autoregressive-models) | [Transformer-based](#transformer-based) |
-| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [ Prompt-based](#prompt-based)|
-| [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) | [Active Learning DMGs](#active-learning-dmgs) |
-| [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [Monte Carlo Tree Search](#monte-carlo-tree-search) | [Genetic Algorithm-based](#genetic-algorithm-based) |
-| [Evolutionary Algorithm-based](#evolutionary-algorithm-based) | [Large Language Model-based](#large-language-model-based)  |  |  |
-
-
-  - [Deep Learning-based DNA design](#deep-learning-based-dna-design)
-
-| Menu | Menu | Menu | Menu |
-| ------ | :---------- | ------ | ------ |
-| [RNN-based](#rnn-based) | [LSTM-based](#lstm-based) | [Autoregressive-models](#autoregressive-models) | [Transformer-based](#transformer-based) |
-| [VAE-based](#vae-based) | [GAN-based](#gan-based) | [Flow-based](#flow-based) | [ Prompt-based](#prompt-based)|
-| [Score-Based](#score-Based) | [Energy-based](#energy-based) | [Diffusion-based](#diffusion-based) | [Active Learning DMGs](#active-learning-dmgs) |
-| [RL-based](#rl-based) | [Multi-task DMGs](#multi-task-dmgs) | [Monte Carlo Tree Search](#monte-carlo-tree-search) | [Genetic Algorithm-based](#genetic-algorithm-based) |
-| [Evolutionary Algorithm-based](#evolutionary-algorithm-based) | [Large Language Model-based](#large-language-model-based)  |  |  |
-
-
-
-
 **Folding Tool Collection**
 
 | Menu | Menu | Menu | Menu |
@@ -586,6 +560,11 @@ Ruffolo, Jeffrey A., Lee-Shin Chu, Sai Pooja Mahajan, and Jeffrey J. Gray.
 
 
 
+
+
+* **The first OpenBind release: An open experimental structure–affinity dataset and benchmark for structure-based AI** [2026]  
+Nelen, Jochem, Omeir Khan, Etowah Adams, Jasmin C. Aschenbrenner, Warren Thompson, Ali Ebrahim, Eda Çapkin et al.   
+[bioRxiv (2026)](https://doi.org/10.64898/2026.08.27.747600) | [Code](https://github.com/OpenBind-Consortium/EV-A71_2A_benchmark)  
 
 * **Towards Generalizable Protein-ligand Co-folding with ACER** [2026]  
 Nopsinth Vithayapalert, Francesca Grisoni.   
