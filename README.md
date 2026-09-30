@@ -589,7 +589,9 @@ Ruffolo, Jeffrey A., Lee-Shin Chu, Sai Pooja Mahajan, and Jeffrey J. Gray.
 Nopsinth Vithayapalert, Francesca Grisoni.   
 [bioRxiv (2026)](https://doi.org/10.64898/2026.06.02.728568) | [Code](https://github.com/molML/acer)  
 
-
+* **Reconstructing hidden GPCR conformations and ligand binding modes through integrative DEER modeling** [2026]  
+Belyaeva J, Elgeti M.   
+[Structure (2026)](https://doi.org/10.1016/j.str.2026.09.003) | [Zenodo](https://doi.org/10.5281/zenodo.20259483)  
 
 
 
