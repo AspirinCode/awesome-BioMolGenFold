@@ -552,7 +552,9 @@ Ul Rahman, J., Noureen, I., Mannan, A. et al.
 Kevin Lu, Jannik Brinkmann, Stefan Huber, Aaron Mueller, Yonatan Belinkov, David Bau, Chris Wendler.   
 [arXiv:2602.06020 (2026)](https://doi.org/10.48550/arXiv.2602.06020) | [Code](https://github.com/kevinlu4588/ProteinFolding)  
 
-
+* **Correcting the Dropout-LayerNorm Expectation Gap Improves Protein Structure Models** [2026]  
+Isaac Ellmen, David Errington, Matthew I.J. Raybould, Charlotte M. Deane.  
+[arXiv:2609.32062(2026)](https://doi.org/10.48550/arXiv.2609.32062) | [Code](https://github.com/oxpig/DLC)  
 
 
 
