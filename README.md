@@ -38,6 +38,11 @@
 
 
 
+
+* **RGI-Toolkit: Differentiable Restraints for Controllable Biomolecular Structure Prediction** [2026]   
+Tatsuki Hori, Yoshitaka Moriwaki, Ryuichiro Ishitani.   
+[bioRxiv (2026)](https://doi.org/10.64898/2026.10.05.756905) | [code](https://github.com/cddlab/rgi_toolkit)  
+
 * **Latent generative search unlocks de novo design of untapped biomolecular interactions at scaler** [2026]   
 Didi, K., Reidenbach, D., Penner, M., Ravichandran, S., Case, M., Nichols, M., ... & Kreis, K..   
 [bioRxiv (2026)](https://doi.org/10.64898/2026.09.12.751118) | [code](https://github.com/NVIDIA-Digital-Bio/proteina-complexa)  
