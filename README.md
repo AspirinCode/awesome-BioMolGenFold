@@ -483,9 +483,15 @@ McDonald, Eli Fritz, Taylor Jones, Lars Plate, Jens Meiler, and Alican Gulsevin.
 
 
 
+
+
+* **DreamFold: A World Model to efficiently generate protein folding pathways in the latent space** [2026]  
+Ianeselli A, Im J, Cavallin E, Gerstein MB.  
+[Protein Science (2026)](https://doi.org/10.1002/pro.70794) | [Zenodo](https://doi.org/10.5281/zenodo.17369796)  
+
 * **Improved protein structure prediction using potentials from deep learning** [2020]  
-Senior, A.W., Evans, R., Jumper, J. et al.   
-[Nature 577, 706–710 (2020)](https://doi.org/10.1038/s41586-019-1923-7) | [code](https://github.com/google-deepmind/deepmind-research/tree/master/alphafold_casp13)
+Senior, A.W., Evans, R., Jumper, J. et al.  
+[Nature 577, 706–710 (2020)](https://doi.org/10.1038/s41586-019-1923-7) | [code](https://github.com/google-deepmind/deepmind-research/tree/master/alphafold_casp13)  
 
 * **Highly accurate protein structure prediction with AlphaFold** [2021]  
 Jumper, John, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool et al.   
