@@ -573,6 +573,11 @@ Ruffolo, Jeffrey A., Lee-Shin Chu, Sai Pooja Mahajan, and Jeffrey J. Gray.
 
 
 
+
+* **Benchmarking Protein–Ligand Cofolding Models: Correct Ligand Placement Is Decoupled From Accurate Protein Conformation** [2026]  
+Leon Obendorf, Niklas Piet Doering, Petra Knaus, Gerhard Wolber.   
+[J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c02169) | [Zenodo](https://doi.org/10.5281/zenodo.22208005)  
+
 * **The first OpenBind release: An open experimental structure–affinity dataset and benchmark for structure-based AI** [2026]  
 Nelen, Jochem, Omeir Khan, Etowah Adams, Jasmin C. Aschenbrenner, Warren Thompson, Ali Ebrahim, Eda Çapkin et al.   
 [bioRxiv (2026)](https://doi.org/10.64898/2026.08.27.747600) | [Code](https://github.com/OpenBind-Consortium/EV-A71_2A_benchmark)  
