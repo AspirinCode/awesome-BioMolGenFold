@@ -618,9 +618,11 @@ Fang, Xiaomin, Jie Gao, Jing Hu, Lihang Liu, Yang Xue, Xiaonan Zhang, and Kunrui
 
 * **Accurate structure prediction of biomolecular interactions with AlphaFold 3** [2024]  
 Abramson, J., Adler, J., Dunger, J. et al.   
-[Nature (2024)](https://doi.org/10.1038/s41586-024-07487-w) | [sever](https://alphafoldserver.com/)
+[Nature (2024)](https://doi.org/10.1038/s41586-024-07487-w) | [sever](https://alphafoldserver.com/)  
 
-
+* **ADistance-AF Multimer: A Multi-Step Approach for Protein Complex Structure Modeling with User-Defined Distance Constraints** [2026]  
+Kai Ling, Yuanyuan Zhang, Zicong Zhang, Tsukasa Nakamura, Daisuke Kihara.   
+[bioRxiv (2026)](https://doi.org/10.64898/2026.10.14.759232) | [Code](https://github.com/kiharalab/Distance-AFM)  
 
 
 
