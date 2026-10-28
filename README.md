@@ -133,6 +133,10 @@ https://github.com/biolists/folding_tools
 
 
 
+
+
+
+* [RFD4-Proteina](https://github.com/RosettaCommons/RFD4-Proteina) - Biomolecular design through latent reasoning.
 * [Mol-1](https://github.com/molence/Mol-1) - Open Frontier Biomolecular Intelligence.
 
 
