@@ -51,7 +51,9 @@ Didi, K., Reidenbach, D., Penner, M., Ravichandran, S., Case, M., Nichols, M., .
 TorchCraft Team: Yu Liu, Zhouhanyu Shen, Zhengyi Li, Xikun Huang, Jiaqi Liu, Shuxian Gao, Qilin Yu, Xiayan Qin, Yucheng Zhang, Mingchen Chen.   
 [arXiv:2609.19770(2026)](https://doi.org/10.48550/arXiv.2609.19770) | [code](https://github.com/Mingchenchen/TorchX)  
 
-
+* **Protenix-v2: Broadening the Reach of Structure Prediction and Biomolecular Design** [2026]  
+Yuxuan Zhang, Chengyue Gong, Jinyuan Sun, Jiaqi Guan, Milong Ren, Song Xue, Hanyu Zhang, Wenzhi Ma, Zhenyu Liu, Xinshi Chen, Wenzhi Xiao.   
+[bioRxiv (2026)](https://doi.org/10.64898/2026.04.10.717613) | [code](https://github.com/bytedance/Protenix)  
 
 
 
@@ -138,7 +140,8 @@ https://github.com/biolists/folding_tools
 
 * [RFD4-Proteina](https://github.com/RosettaCommons/RFD4-Proteina) - Biomolecular design through latent reasoning.
 * [Mol-1](https://github.com/molence/Mol-1) - Open Frontier Biomolecular Intelligence.
-
+* [Protenix-v2](https://github.com/bytedance/Protenix) - Broadening the Reach of Structure Prediction and Biomolecular Design.
+* [Protenix-v1](https://github.com/bytedance/Protenix) - Toward High-Accuracy Open-Source Biomolecular Structure Prediction.
 
 
 
@@ -150,6 +153,14 @@ Hyosoon Jang, Taewon Kim, Sungsoo Ahn.
 * **The first OpenBind release: An open experimental structure–affinity dataset and benchmark for structure-based AI** [2026]  
 Jochem Nelen, Omeir Khan, Etowah Adams, Jasmin C. Aschenbrenner, Warren Thompson, Ali Ebrahim, Eda Çapkin, Cédric Vallée, OpenBind, Elizabeth J. Shotton, Ed J. Griffen, John D. Chodera, Charlotte M. Deane, Frank von Delft, Mohammed AlQuraishi, Fergus Imrie.   
 [bioRxiv (2026)](https://doi.org/10.64898/2026.08.27.747600) | [code](https://github.com/OpenBind-Consortium/EV-A71_2A_benchmark) | [Zenodo](https://zenodo.org/records/20026661)  
+
+* **Protenix-v2: Broadening the Reach of Structure Prediction and Biomolecular Design** [2026]  
+Yuxuan Zhang, Chengyue Gong, Jinyuan Sun, Jiaqi Guan, Milong Ren, Song Xue, Hanyu Zhang, Wenzhi Ma, Zhenyu Liu, Xinshi Chen, Wenzhi Xiao.   
+[bioRxiv (2026)](https://doi.org/10.64898/2026.04.10.717613) | [code](https://github.com/bytedance/Protenix)  
+
+* **Protenix-v1: Toward High-Accuracy Open-Source Biomolecular Structure Prediction** [2026]  
+Protenix Team, Yuxuan Zhang, Chengyue Gong, Hanyu Zhang, Wenzhi Ma, Zhenyu Liu, Xinshi Chen, Jiaqi Guan, Lan Wang, Wenzhi Xiao.   
+[bioRxiv (2026)](https://doi.org/10.64898/2026.02.05.703733) | [code](https://github.com/bytedance/Protenix)  
 
 * **Accurate site-specific folding via conditional diffusion based on AlphaFold3** [2025]  
 H. Tang, & J. Wang.   
