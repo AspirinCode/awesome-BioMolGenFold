@@ -37,7 +37,9 @@
 
 
 
-
+* **Towards Generalizing Pretrained All-Atom Representations to Unified Binder Design** [2026]   
+Maojiang Su, Jiale Chen, Qijie Zhu, Shang Wu, Jiayi Wang, Jihai Zhao, Guo Ye, Yibo Wen, Han Liu.   
+[arXiv:2610.37994(2026)](https://doi.org/10.48550/arXiv.2610.37994)  
 
 * **RGI-Toolkit: Differentiable Restraints for Controllable Biomolecular Structure Prediction** [2026]   
 Tatsuki Hori, Yoshitaka Moriwaki, Ryuichiro Ishitani.   
