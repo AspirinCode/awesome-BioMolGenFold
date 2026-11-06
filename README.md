@@ -148,6 +148,11 @@ https://github.com/biolists/folding_tools
 
 
 
+
+
+
+
+
 * **Synthesizing State-of-the-Art Structure Predictions from Soup of Co-folding Models** [2026]  
 Hyosoon Jang, Taewon Kim, Sungsoo Ahn.   
 [arXiv:2609.15552v1(2026)](https://arxiv.org/html/2609.15552v1)  
@@ -172,7 +177,9 @@ H. Tang, & J. Wang.
 Odin Zhang, Xujun Zhang, Haitao Lin, Cheng Tan, Qinghan Wang, Yuanle Mo, Qiantai Feng, Gang Du, Yuntao Yu, Zichang Jin, Ziyi You, Peicong Lin, Yijie Zhang, Yuyang Tao, Shicheng Chen, Jack Xiaoyu Chen, Chenqing Hua, Weibo Zhao, Runze Ma, Yunpeng Xia, Kejun Ying, Jun Li, Yundian Zeng, Lijun Lang, Peichen Pan, Hanqun Cao, Zihao Song, Bo Qiang, Jiaqi Wang, Pengfei Ji, Lei Bai, Jian Zhang, Chang-yu Hsieh, Pheng Ann Heng, Siqi Sun, Tingjun Hou, Shuangjia Zheng.   
 [arXiv:2510.22304 (2025)](https://doi.org/10.48550/arXiv.2510.22304) | [code](https://github.com/OTeam-AI4S/ODesign) | [Web](https://odesign1.github.io/)  
 
-
+* **IntFold: A Controllable Foundation Model for General and Specialized Biomolecular Structure Prediction** [2025]  
+The IntFold Team: Leon Qiao, Wayne Bai, He Yan, Gary Liu, Nova Xi, Xiang Zhang, Siqi Sun.   
+[arXiv:2507.02025(2025)](https://doi.org/10.48550/arXiv.2507.02025) | [code](https://github.com/IntelliGen-AI/IntelliFold)  
 
 
 
