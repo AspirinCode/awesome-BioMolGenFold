@@ -19,6 +19,7 @@
 
 | Menu | Menu | Menu | Menu |
 | ------ | :---------- | ------ | ------ |
+| [Metrics](#metrics) |  |  |  |
 | [RNAFold](#rnafold) | [mRNAFold](#mrnafold) | [DNAFold](#dnafold) |  |
 | [peptideFold](#peptidefold) | [ProteinFold](#proteinfold) | [AntibodyFold](#antibodyfold) | [Protein-Ligand ComplexFold](#protein-ligand-complexfold) |
 | [Protein-Protein ComplexFold](#protein-protein-complexfold) | [Peptide-Protein ComplexFold](#peptide-protein-complexfold) | [RNA-Protein ComplexFold](#rna-protein-complexfold) | [DNA-Protein ComplexFold](#dna-protein-complexfold) |
@@ -191,9 +192,22 @@ The IntFold Team: Leon Qiao, Wayne Bai, He Yan, Gary Liu, Nova Xi, Xiang Zhang, 
 
 
 
+### Metrics
+
+
+
+
+* **Rēs ipSAE adhūc loquuntur: What the directionality of predicted aligned error in cofolding models can tell us about scoring diverse molecular complexes** [2026]  
+Roland Dunbrack Jr.  
+[bioRxiv (2026)](https://doi.org/10.64898/2026.11.02.763449) | [code](https://github.com/DunbrackLab/IPSAE2)  
+
+
 
 
 ### AlphaFold
+
+
+
 
 
 
