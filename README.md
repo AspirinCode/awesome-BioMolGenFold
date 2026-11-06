@@ -169,6 +169,10 @@ Yuxuan Zhang, Chengyue Gong, Jinyuan Sun, Jiaqi Guan, Milong Ren, Song Xue, Hany
 Protenix Team, Yuxuan Zhang, Chengyue Gong, Hanyu Zhang, Wenzhi Ma, Zhenyu Liu, Xinshi Chen, Jiaqi Guan, Lan Wang, Wenzhi Xiao.   
 [bioRxiv (2026)](https://doi.org/10.64898/2026.02.05.703733) | [code](https://github.com/bytedance/Protenix)  
 
+* **IntelliFold-2: Surpassing AlphaFold 3 via Architectural Refinement and Structural Consistency** [2026]  
+Lifeng Qiao, He Yan, Gary Liu, Gaoxing Guo, Siqi Sun.   
+[bioRxiv (2026)](https://doi.org/10.64898/2026.02.09.704787) | [code](https://github.com/IntelliGen-AI/IntelliFold)  
+
 * **Accurate site-specific folding via conditional diffusion based on AlphaFold3** [2025]  
 H. Tang, & J. Wang.   
 [Proc. Natl. Acad. Sci. (2025)](https://doi.org/10.1073/pnas.2521048122) | [code](https://github.com/HaCTang/SiteAF3)  
