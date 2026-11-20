@@ -38,6 +38,11 @@
 
 
 
+
+* **Biomolecular design through latent reasoning with RFD4-Proteina** [2026]   
+Nathaniel Corley, Kieran Didi, Maxwell W. Kazman, Rafael I. Brent, Magnus S. Bauer, Riti Biswas, Julia E. Bonzanini, Adam M. Chazin-Gray, Jie Chen, Andrew Favor, Maximilian Gantz, Henry A. Jones, Paul Kim, Margaret C. Lunn-Halbert, Nora K. McNamara-Bordewick, Saman Salike, DéJenaé L. See, Shajesh Sharma, Eric Sun, Preetham Venkatesh, Seth M. Woodbury, Kejia Wu, Yuyang Zhang, Joel D. Allen, Jasper Butcher, Lemuel Chang, Yehlin Cho, Alexis Courbet, Brian Coventry, Christian Dallago, Elliot S. Delfosse, Helen E. Eisenach, Mariana Garcia Sanchez, Tomas Geffner, Inna Goreshnik, Per Greisen, Andrew C. Hunt, David E. Kim, Donghyo Kim, Brianne R. King, Rohith Krishna, Yanjing Li, Zi Ming Li, Aiko Muraishi, Edin Muratspahíc, Oliver Nagl, Griffin H. Rangel, Antonia Ruder, Hojeong Shin, Zefei Xu, Yuwei Yang, Max Crispin, Neil P. King, Frank DiMaio, Gaurav Bhardwaj, Michael Bronstein, Karsten Kreis, Donald Hilvert, Anthony P. Green, Arash Vahdat, David Baker.   
+[bioRxiv(2026)](https://doi.org/10.64898/2026.11.12.766037) | [code](https://github.com/RosettaCommons/RFD4-Proteina)  
+
 * **Towards Generalizing Pretrained All-Atom Representations to Unified Binder Design** [2026]   
 Maojiang Su, Jiale Chen, Qijie Zhu, Shang Wu, Jiayi Wang, Jihai Zhao, Guo Ye, Yibo Wen, Han Liu.   
 [arXiv:2610.37994(2026)](https://doi.org/10.48550/arXiv.2610.37994)  
