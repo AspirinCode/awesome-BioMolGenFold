@@ -671,7 +671,9 @@ Abramson, J., Adler, J., Dunger, J. et al.
 Kai Ling, Yuanyuan Zhang, Zicong Zhang, Tsukasa Nakamura, Daisuke Kihara.   
 [bioRxiv (2026)](https://doi.org/10.64898/2026.10.14.759232) | [Code](https://github.com/kiharalab/Distance-AFM)  
 
-
+* **Efficient and Accurate Zero Shot Generation of Symmetric Protein Complexes** [2026]  
+Rory Gao, Yuanzhou Chen, Prajit Rajkumar, Wei Wang.   
+[arXiv:2611.10424(2026)](https://doi.org/10.48550/arXiv.2611.10424)  
 
 
 
