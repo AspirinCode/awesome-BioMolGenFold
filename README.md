@@ -518,7 +518,7 @@ McDonald, Eli Fritz, Taylor Jones, Lars Plate, Jens Meiler, and Alican Gulsevin.
 
 * **De Novo Folding Mechanisms of Lasso Peptides** [2026]  
 Song Yin, Xuenan Mi, Susanna E. Barrett, Mayuresh G. Gadgil, Douglas A. Mitchell, Diwakar Shukla.   
-[Journal American Chemical Society(2023)](https://doi.org/10.1021/jacs.6c06587)  
+[Journal American Chemical Society(2026)](https://doi.org/10.1021/jacs.6c06587)  
 
 
 
