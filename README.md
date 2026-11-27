@@ -625,6 +625,11 @@ Ruffolo, Jeffrey A., Lee-Shin Chu, Sai Pooja Mahajan, and Jeffrey J. Gray.
 
 
 
+
+* **Structural Agreement Indicates Prediction Accuracy For Protein-Ligand Co-Folding** [2026]  
+J. Henry Broster, Bojana Popovic, Diana Kondinskaia, Charlotte M. Deane, Fergus Imrie.   
+[arXiv:2611.27058(2026)](https://doi.org/10.48550/arXiv.2611.27058) | [Code](https://github.com/oxpig/core-score)  
+
 * **Benchmarking Protein–Ligand Cofolding Models: Correct Ligand Placement Is Decoupled From Accurate Protein Conformation** [2026]  
 Leon Obendorf, Niklas Piet Doering, Petra Knaus, Gerhard Wolber.   
 [J. Chem. Inf. Model.(2026)](https://doi.org/10.1021/acs.jcim.6c02169) | [Zenodo](https://doi.org/10.5281/zenodo.22208005)  
