@@ -157,7 +157,9 @@ https://github.com/biolists/folding_tools
 
 
 
-
+* **Plausible Biomolecular Structure Prediction via Physics-informed Reinforcement Learning** [2026]  
+Tai Dang and Hieu Tran and Long-Hung Pham and Sang T. Truong and Edward A Pham and Jeffrey S. Glenn and Thang Luong.  
+[NeurIPS 2026(2026)](https://openreview.net/forum?id=RM7NMWgQlH) | [code](https://github.com/newturing/pifold)  
 
 * **Synthesizing State-of-the-Art Structure Predictions from Soup of Co-folding Models** [2026]  
 Hyosoon Jang, Taewon Kim, Sungsoo Ahn.   
