@@ -536,6 +536,15 @@ Song Yin, Xuenan Mi, Susanna E. Barrett, Mayuresh G. Gadgil, Douglas A. Mitchell
 
 
 
+
+* **GPT-6 as a Universal Foundation Model for Protein Biology: Beyond Specialized Models** [2026]  
+Masatoshi Uehara1, Edward Zhou1, Joshua Park1, Morgan Griffiths1, Austin Clyde1, Suyash Shringarpure1, Yuan Yuan1, Kevin Rao1, Anton Bushuiev2, Michael Yu2, Kathryn M. Collins3, Jesse Hendricks3, Puwanat Sangkhapreecha3, Lee-Shin Chu3, Sharrol Bachas3, Joy Jiao11.  
+[OpenAI(2026)](https://cdn.openai.com/pdf/gpt-6-a-universal-foundation-model-for-protein-biology.pdf)  
+
+* **Tuning evolutionary information in MSAs shapes protein generation and folding** [2026]  
+Graham Richardson, Lionel Colliandre.  
+[bioRxiv(2026)](https://doi.org/10.64898/2026.11.23.768656) | [Code](https://github.com/Evotec-in-silico-AI/MSA-information-tuning)  
+
 * **DreamFold: A World Model to efficiently generate protein folding pathways in the latent space** [2026]  
 Ianeselli A, Im J, Cavallin E, Gerstein MB.  
 [Protein Science (2026)](https://doi.org/10.1002/pro.70794) | [Zenodo](https://doi.org/10.5281/zenodo.17369796)  
