@@ -217,7 +217,9 @@ Roland Dunbrack Jr.
 
 
 
-
+* **De novo identification of protein domains in cryo-electron tomography maps from AlphaFold2 models** [2026]  
+Lu, Y., Chen, G., Sun, F. et al.   
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-79502-9) | [code](https://github.com/zyzhangGroup/DomainSeeker)  
 
 * **An Evaluation of Biomolecular Energetics Learned by AlphaFold** [2025]  
 Ningyi Lyu, Siyuan Du, Jianpeng Ma, Daniel Herschlag.   
