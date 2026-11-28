@@ -467,7 +467,9 @@ Maciej Majewski, Laura Malo, Ariadna Montero-Blay, Matteo Marengo, Paraskevi Gke
 Yifan Yang, David H Mathews, Sharon Aviran.  
 [bioRxiv (2026)](https://doi.org/10.64898/2026.09.10.750790)  
 
-
+* **Learning RNA secondary structure from chemical probing with MXfold2** [2026]  
+Rintaro Yamauchi, Sho Tsukiyama, Kengo Sato.   
+[bioRxiv(2026)](https://doi.org/10.64898/2026.11.18.767577) | [code](https://github.com/mxfold/mxfold2)  
 
 
 
